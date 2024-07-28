@@ -1,6 +1,6 @@
 # web_architecture_patterns
 
-my architecture patterns for Web.
+My architecture patterns for web application.
 
 ## application
 
