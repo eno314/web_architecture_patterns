@@ -4,6 +4,7 @@
 
 - Data provider is external service.
 - There are many requests at Frontend.
+  - It can use cache at DataReader or between Frontend and DataReader.
 
 ## components
 
